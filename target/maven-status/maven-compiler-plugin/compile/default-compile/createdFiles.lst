@@ -1,0 +1,5 @@
+com/example/demo/model/Usuario.class
+com/example/demo/repositories/UsuarioRepository.class
+com/example/demo/controllers/UsuarioController.class
+com/example/demo/CriptografiaApplication.class
+com/example/demo/services/UsuarioService.class
